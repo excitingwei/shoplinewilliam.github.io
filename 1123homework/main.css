@@ -1,3 +1,7 @@
+h1 {
+    color: greenyellow;
+}
+
 table {
     border-collapse: collapse;
 }
@@ -5,5 +9,6 @@ td, th {
     border: 1px solid gray;
 }
 image {
-    border-image-width: 30px;
+    width: 200px;
+    height: auto;
 }
