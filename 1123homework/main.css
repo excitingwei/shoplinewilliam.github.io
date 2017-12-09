@@ -1,5 +1,5 @@
 h1 {
-    color: greenyellow;
+    color: rgb(22, 179, 118);
 }
 
 table {
@@ -11,4 +11,8 @@ td, th {
 img {
     width: 200px;
     height: auto;
+}
+
+ul {
+    list-style-type: square;
 }
