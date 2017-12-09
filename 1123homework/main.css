@@ -3,6 +3,6 @@ img {
     height: 50px;
 }
 
-table, thead, tdody {
+table, thead, tbody {
     border: 1px solid gray;
 }
